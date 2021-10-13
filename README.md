@@ -1,11 +1,20 @@
 # Dito Orkodashvili
 
-_Frontend Developer_ <br>
+_Senior Frontend Developer_ <br>
 
 [Email](mailto:d.orkodashvili@gmail.com) / [LinkedIn](https://www.linkedin.com/in/dito-orkodashvili-609a1a82/) / [GitHub](https://github.com/Dito-Orkodashvili)
 
 ## 💻 Technical Experience
 
+**Senior Fronted Dev** @ [ADM Interactive](https://www.adm.ee) _(Aug 2021 - Present)_ <br>
+- Build components library that is used in HP online stores for different countries.
+- Build pixel perfect, responsive UIs based on the provided DX prototypes.
+- Improve performance of the existing React components.
+- Improve accessibility.
+- Improve the developer experience by adding multiple tools to the existing mono repo.  
+- **_Technologies used:_** React, TypeScript, Jest, React testing library, SCSS, Storybook, yarn workspaces.
+  <br><br>
+  
 **Senior Fronted Dev** @ [Discovery LTD](https://www.discovery.co.za/) _(Sep 2020 - Aug 2021)_ <br>
 - Build PWAs for the leading health insurance company in South Africa using Angular 10.
 - Translate Figma designs to the pixel perfect UI.
