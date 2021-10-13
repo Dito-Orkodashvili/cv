@@ -12,7 +12,7 @@ _Senior Frontend Developer_ <br>
 - Improve performance of the existing React components.
 - Improve accessibility.
 - Improve the developer experience by adding multiple tools to the existing mono repo.
-- **_Technologies used:_** React, TypeScript, Jest, React testing library, SCSS, Storybook, yarn workspaces.
+- **_Technologies used:_** `React`, `TypeScript`, `Jest`, `React testing library`, `SCSS`, `Storybook`, `yarn workspaces`.
   <br><br>
 
 **Senior Fronted Dev** @ [Discovery LTD](https://www.discovery.co.za/) _(Sep 2020 - Aug 2021)_ <br>
@@ -20,7 +20,7 @@ _Senior Frontend Developer_ <br>
 - Translate Figma designs to the pixel perfect UI.
 - Build responsive UIs for all possible screen sizes.
 - Work with a big agile team of developers, designers, testers, etc.
-- **_Technologies used:_** Angular, NgRx, RxJs.
+- **_Technologies used:_** `Angular`, `NgRx`, `RxJs`.
   <br><br>
 
 **Web Dev** @ [LLC AzRy](https://azry.com/) _(May 2019 - Aug 2021)_ <br>
@@ -32,7 +32,7 @@ _Senior Frontend Developer_ <br>
 - Maintain and improve legacy systems created using ExtJs.
 - Maintain and improve websites created using Drupal framework.
 - Research and learn new and useful technologies for the company.
-- **_Technologies used:_** React, Redux, Material UI, PHP, Drupal.
+- **_Technologies used:_** `React`, `Redux`, `Material UI`, `PHP`, `Drupal`.
   <br><br>
 
 **Web Dev** @ LEPL DEPARTMENT OF COMMON COURTS _(Dec 2013 - Sep 2019)_ <br>
@@ -43,7 +43,7 @@ _Senior Frontend Developer_ <br>
 - Maintain existing website of common courts using PHP and MySQL.
 - Build and maintain device service management web application using Laravel for
   tracking thestatuses of damaged devices sent to the service.
-- **_Technologies used:_** PHP, MySQL, Laravel, JavaScript.
+- **_Technologies used:_** `PHP`, `MySQL`, `Laravel`, `JavaScript`.
   <br><br>
 
 ## 💬 Languages
