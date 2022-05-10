@@ -6,9 +6,10 @@ _Senior Frontend Developer_ <br>
 
 ## 💻 Technical Experience
 
+**Senior Fronted Dev** @ [Toptal](https://www.toptal.com) _(Dec 2021 - Present)_ <br>
 **Senior Fronted Dev** @ [ADM Interactive](https://www.adm.ee) _(Aug 2021 - Present)_ <br>
 - Build components library that is used in HP online stores for different countries.
-- Build pixel perfect, responsive UIs based on the provided DX prototypes.
+- Build pixel perfect, responsive UIs based on the provided XD prototypes.
 - Improve performance of the existing React components.
 - Improve accessibility.
 - Improve the developer experience by adding multiple tools to the existing mono repo.  
