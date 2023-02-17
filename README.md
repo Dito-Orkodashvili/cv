@@ -5,11 +5,18 @@ _Senior Frontend Developer_ <br>
 [Email](mailto:d.orkodashvili@gmail.com) / [LinkedIn](https://www.linkedin.com/in/dito-orkodashvili-609a1a82/) / [GitHub](https://github.com/Dito-Orkodashvili)
 
 ## 💻 Technical Experience
-
 **Senior Fronted Dev** @ [Toptal](https://www.toptal.com) _(Dec 2021 - Present)_ <br>
-**Senior Fronted Dev** @ [ADM Interactive](https://www.adm.ee) _(Aug 2021 - Present)_ <br>
+**Senior Fronted Dev** @ [Inexpay] _(Jan 2023 - Present)_ <br>
+- Build UI using Nextjs.
+- Setup mono repo using Yarn Workspaces and Turborepo.
+- Help building microservices using NestJs.
+- Setup CI/CD using Github Actions, Docker and Digital Ocean.
+- **_Technologies used:_** NextJs, NestJs, Postgres, TailwindCSS, Docker.
+<br><br>
+
+**Senior Fronted Dev** @ [ADM Interactive](https://www.adm.ee) _(Aug 2021 - Jan 2023)_ <br>
 - Build components library that is used in HP online stores for different countries.
-- Build pixel perfect, responsive UIs based on the provided XD prototypes.
+- Build pixel perfect, responsive UIs based on the provided Figma prototypes.
 - Improve performance of the existing React components.
 - Improve accessibility.
 - Improve the developer experience by adding multiple tools to the existing mono repo.  
