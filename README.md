@@ -5,52 +5,59 @@ _Senior Frontend Developer_ <br>
 [Email](mailto:d.orkodashvili@gmail.com) / [LinkedIn](https://www.linkedin.com/in/dito-orkodashvili-609a1a82/) / [GitHub](https://github.com/Dito-Orkodashvili)
 
 ## 💻 Technical Experience
-**Senior Fronted Dev** @ [Toptal](https://www.toptal.com) _(Dec 2021 - Present)_ <br>
-**Senior Fronted Dev** @ Inexpay _(Jan 2023 - Present)_ <br>
-- Build UI using Nextjs.
-- Setup mono repo using Yarn Workspaces and Turborepo.
-- Help building microservices using NestJs.
-- Setup CI/CD using Github Actions, Docker and Digital Ocean.
+**Dev Team Lead** @ [ADM Interactive](https://www.adm.ee) _(Aug 2023 - current)_ <br>
+- Lead a team of five developers, ensuring efficient collaboration and project delivery.
+- Coordinate with multiple HP teams to gather requirements and align on solutions.
+- Optimize and enhance all package performance and functionality.
+- Manage and streamline CI processes using GitHub Actions.
+- Enhance accessibility standards across components.
+- **_Technologies used:_** `React`, `TypeScript`, `Jest`, `React testing library`, `SCSS`, `Storybook`, `Chromatic`, `Yarn Workspaces`, `Turborepo`.
+  <br><br>
+
+
+**Senior Fronted Dev** @ [Datanor](https://www.datanor.ee/) _(Jan 2022 - 2023)_ <br>
+- Develop high-quality UIs using Next.js.
+- Maintain a monorepo with Yarn Workspaces and Turborepo.
+- Contribute to building backend microservices using NestJS.
+- Establish CI/CD pipelines leveraging GitHub Actions, Docker, and Digital Ocean.
 - **_Technologies used:_** `NextJs`, `NestJs`, `Postgres`, `TailwindCSS`, `Docker`.
-<br><br>
+  <br><br>
+
+**Senior Fronted Dev** @ [Toptal](https://www.toptal.com) _(Dec 2021 - 2022)_ <br>
+  <br>
 
 **Senior Fronted Dev** @ [ADM Interactive](https://www.adm.ee) _(Aug 2021 - Jan 2023)_ <br>
-- Build components library that is used in HP online stores for different countries.
-- Build pixel perfect, responsive UIs based on the provided DX prototypes.
-- Improve performance of the existing React components.
-- Improve accessibility.
-- Improve the developer experience by adding multiple tools to the existing mono repo.
+- Develop a components library for HP online stores across various regions.
+- Implement pixel-perfect, responsive UIs based on Figma prototypes.
+- Optimize existing React components for improved performance.
+- Enhance accessibility features for a better user experience.
+- Improve developer experience by integrating tools into the monorepo.
 - **_Technologies used:_** `React`, `TypeScript`, `Jest`, `React testing library`, `SCSS`, `Storybook`, `yarn workspaces`.
   <br><br>
 
 **Senior Fronted Dev** @ [Discovery LTD](https://www.discovery.co.za/) _(Sep 2020 - Aug 2021)_ <br>
-- Build PWAs for the leading health insurance company in South Africa using Angular 10.
-- Translate Figma designs to the pixel perfect UI.
-- Build responsive UIs for all possible screen sizes.
-- Work with a big agile team of developers, designers, testers, etc.
+- Build progressive web applications (PWAs) for South Africa's leading health insurance provider using Angular 10.
+- Translate Figma designs into pixel-perfect UIs.
+- Develop responsive interfaces for various screen sizes.
+- Collaborate with a large agile team of developers, designers, and testers.
 - **_Technologies used:_** `Angular`, `NgRx`, `RxJs`.
   <br><br>
 
 **Web Dev** @ [LLC AzRy](https://azry.com/) _(May 2019 - Aug 2021)_ <br>
-- Determine the structure and UI design of web applications.
-- Create products for banks, financial institutes and government organizations.
-- Build user friendly interfaces for complex applications.
-- Build reusable components for future use.
-- Optimize web apps for maximum speed and scalability.
-- Maintain and improve legacy systems created using ExtJs.
-- Maintain and improve websites created using Drupal framework.
+- Design and implement UI structures for web applications.
+- Deliver solutions for banks, financial institutions, and government organizations.
+- Build reusable and scalable UI components.
+- Optimize web applications for speed and scalability.
+- Maintain legacy systems using ExtJS and Drupal.
 - Research and learn new and useful technologies for the company.
 - **_Technologies used:_** `React`, `Redux`, `Material UI`, `PHP`, `Drupal`.
   <br><br>
 
 **Web Dev** @ LEPL DEPARTMENT OF COMMON COURTS _(Dec 2013 - Sep 2019)_ <br>
-- Build and maintain tasks management system for the IT department using Laravel.
-- Build and maintain company website using Laravel.
-- Build and maintain web application for uploading, storing and sending archived
-  documents.
-- Maintain existing website of common courts using PHP and MySQL.
-- Build and maintain device service management web application using Laravel for
-  tracking thestatuses of damaged devices sent to the service.
+- Develop and maintain task management systems for the IT department using Laravel.
+- Design and implement the organization's website and archival systems.
+- Maintain legacy systems and databases.
+- Develop and maintain a device service management web application using Laravel to track the status of damaged devices throughout the repair process.
 - **_Technologies used:_** `PHP`, `MySQL`, `Laravel`, `JavaScript`.
   <br><br>
 
