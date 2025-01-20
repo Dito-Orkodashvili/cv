@@ -5,7 +5,7 @@ _Senior Frontend Developer_ <br>
 [Email](mailto:d.orkodashvili@gmail.com) / [LinkedIn](https://www.linkedin.com/in/dito-orkodashvili-609a1a82/) / [GitHub](https://github.com/Dito-Orkodashvili)
 
 ## 💻 Technical Experience
-**Dev Team Lead** @ [ADM Interactive](https://www.adm.ee) _(Aug 2023 - current)_ <br>
+**Dev Team Lead** @ [ADM Interactive](https://www.adm.ee) _(Jun 2024 - current)_ <br>
 - Lead a team of five developers, ensuring efficient collaboration and project delivery.
 - Coordinate with multiple HP teams to gather requirements and align on solutions.
 - Optimize and enhance all package performance and functionality.
@@ -15,7 +15,7 @@ _Senior Frontend Developer_ <br>
   <br><br>
 
 
-**Senior Fronted Dev** @ [Datanor](https://www.datanor.ee/) _(Jan 2022 - 2023)_ <br>
+**Senior Fronted Dev** @ [Datanor](https://www.datanor.ee/) _(Jan 2023 - May 2024)_ <br>
 - Develop high-quality UIs using Next.js.
 - Maintain a monorepo with Yarn Workspaces and Turborepo.
 - Contribute to building backend microservices using NestJS.
@@ -23,7 +23,7 @@ _Senior Frontend Developer_ <br>
 - **_Technologies used:_** `NextJs`, `NestJs`, `Postgres`, `TailwindCSS`, `Docker`.
   <br><br>
 
-**Senior Fronted Dev** @ [Toptal](https://www.toptal.com) _(Dec 2021 - 2022)_ <br>
+**Senior Fronted Dev** @ [Toptal](https://www.toptal.com) _(Dec 2021 - 2023)_ <br>
   <br>
 
 **Senior Fronted Dev** @ [ADM Interactive](https://www.adm.ee) _(Aug 2021 - Jan 2023)_ <br>
